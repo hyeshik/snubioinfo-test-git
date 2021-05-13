@@ -8,4 +8,4 @@ It produces the final list of the sequences after filtering
 out the potential matches to human, mouse, _Arabidopsis thaliana_, or
 zebrafish microRNAs.
 
-_Hyeshik Chang_
+_SUYEON KIM_
